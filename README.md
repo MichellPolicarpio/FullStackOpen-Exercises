@@ -10,8 +10,8 @@ Este repositorio contiene mis soluciones, proyectos y notas personales mientras 
 
 ## 👤 Autor
 
-* **Nombre:** [Tu Nombre o Apodo]
-* **GitHub:** [@TuUsuarioDeGitHub](https://github.com/TuUsuarioDeGitHub) ---
+* **Nombre:** Michell Policarpio
+* **GitHub:** [@MichellPolicarpio](https://github.com/MichellPolicarpio) ---
 
 ## 📂 Estructura del Repositorio
 
