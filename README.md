@@ -1,25 +1,28 @@
-# Full Stack Open - Ejercicios del Curso
+# Full Stack Open - Course Repository - MichellPolicarpio
 
-![University of Helsinki Logo](https://courses.helsinki.fi/static/frontend/university/images/logos/university-of-helsinki-logo-en.svg) Bienvenido a mi repositorio de ejercicios para el curso **Full Stack Open** ofrecido por la Universidad de Helsinki.
-
-Este repositorio contiene mis soluciones, proyectos y notas personales mientras avanzo a través de las diferentes partes del curso.
-
-➡️ **Sitio Oficial del Curso:** [Full Stack Open](https://fullstackopen.com/)
+![University of Helsinki Logo](https://courses.helsinki.fi/static/frontend/university/images/logos/university-of-helsinki-logo-en.svg) Welcome! This repository contains my solutions, exercises, and projects developed during the University of Helsinki's **Full Stack Open** course. It documents my progress through the different parts of the curriculum.
 
 ---
 
-## 👤 Autor
+## 👤 Author
 
-* **Nombre:** Michell Policarpio
-* **GitHub:** [@MichellPolicarpio](https://github.com/MichellPolicarpio) ---
+* **GitHub:** [@MichellPolicarpio](https://github.com/MichellPolicarpio)
 
-## 📂 Estructura del Repositorio
+---
 
-Este repositorio está organizado por partes del curso. Cada carpeta principal `partX` corresponde a una parte específica del contenido de Full Stack Open. Dentro de cada parte, los ejercicios o proyectos pueden estar en subcarpetas.
+## 📚 About the Course
 
-## 🛠️ Tecnologías Principales Utilizadas
+* **Name:** Full Stack Open
+* **Institution:** University of Helsinki
+* **Official Website:** [https://fullstackopen.com/en/](https://fullstackopen.com/en/)
 
-A lo largo de este curso, se utilizarán diversas tecnologías, incluyendo (pero no limitado a):
+This course covers modern web development using JavaScript, focusing on Single Page Applications (SPAs) with React and backend services with Node.js (REST & GraphQL), along with topics like TypeScript, React Native, CI/CD, Containers, and Relational Databases.
+
+---
+
+## 🛠️ Key Technologies
+
+The main technologies and tools used throughout this course include:
 
 * JavaScript (ES6+)
 * React
@@ -29,17 +32,16 @@ A lo largo de este curso, se utilizarán diversas tecnologías, incluyendo (pero
 * HTML5 & CSS3
 * Git & GitHub
 * REST APIs
-* GraphQL (en partes posteriores)
-* TypeScript (en partes posteriores)
-* React Native (en partes posteriores)
-* CI/CD (en partes posteriores)
+* GraphQL
+* TypeScript
+* React Native
+* CI/CD (Continuous Integration / Continuous Delivery)
+* Docker (Containers)
+* SQL (Relational Databases)
 
 ---
 
-## 📝 Nota sobre Sumisiones
+## ✅ Exercise Submission
 
-Este repositorio se utiliza para enviar los ejercicios completados al portal de sumisión de Full Stack Open.
-
----
-
-*¡Gracias por visitar!*
+1.  Exercises are developed locally and pushed to this GitHub repository (`github.com/MichellPolicarpio/[your-repo-name]`).
+2.  Progress and the number of completed exercises per part are registered via the official [Full Stack Open Submission System](https://fullstackopen.com/en/part0/general_info#exercise-submission).
