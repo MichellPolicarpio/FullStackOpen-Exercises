@@ -5,8 +5,8 @@
   
   ### A journey through modern web development
   
-  ![GitHub last commit](https://img.shields.io/github/last-commit/MichellPolicarpio/full-stack-open?style=flat-square)
-  ![GitHub repo size](https://img.shields.io/github/repo-size/MichellPolicarpio/full-stack-open?style=flat-square)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/MichellPolicarpio/FullStackOpen-Exercises?style=flat-square)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/MichellPolicarpio/FullStackOpen-Exercises?style=flat-square)
   ![Course Progress](https://img.shields.io/badge/progress-ongoing-brightgreen?style=flat-square)
 </div>
 
