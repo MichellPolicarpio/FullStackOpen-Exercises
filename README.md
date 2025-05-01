@@ -28,8 +28,8 @@ This course serves as a deep dive into modern web application development with J
 
 | Part | Topic | Status | Exercises Completed |
 |:----:|:------|:------:|:-------------------:|
-| 0 | Fundamentals of Web Apps | 🔄 In Progress | 6/6 |
-| 1 | Introduction to React | ⏳ Pending | 0/14 |
+| 0 | Fundamentals of Web Apps | Done | 6/6 |
+| 1 | Introduction to React | 🔄 In Progress | 0/14 |
 | 2 | Communicating with Server | ⏳ Pending | 0/20 |
 | 3 | Programming a Server with NodeJS and Express | ⏳ Pending | 0/22 |
 | 4 | Testing Express Servers, User Administration | ⏳ Pending | 0/23 |
